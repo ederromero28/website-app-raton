@@ -1057,6 +1057,9 @@ ul{
     }
 }
 @media(max-width: 767px){
+    .effect-wrap .effect-1{
+        display: none;
+    }
     .home-text{
         margin-bottom: 80px;
     }
